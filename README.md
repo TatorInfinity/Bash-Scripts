@@ -9,7 +9,6 @@ easytetherlinux - https://github.com/TatorInfinity/EasytetherLinux
 
 
 
-GlobalChatSuite - https://github.com/TatorInfinity/Global-Chat-Suite
 
 #Games
 ------------
